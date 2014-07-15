@@ -6,6 +6,8 @@ import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.widget.LinearLayout;
 
+import com.android.puzzle.PuzzleView;
+
 public class MainActivity extends Activity {
 
 	@Override
